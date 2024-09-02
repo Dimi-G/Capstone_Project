@@ -1,0 +1,3 @@
+[submodule "daily-standup-journal-app"]
+	path = daily-standup-journal-app
+	url = https://github.com/TorstenChandler/capstone_project.git
