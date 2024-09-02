@@ -1,7 +1,7 @@
 # Capstone_Project
 Emotion Classifier and RAG app implementation on diary entries of different users: 
 
-Using the Frontend, users can add a journal entry.
+Using the frontend, users can add a journal entry.
 The entry is processed by the backend to send an appropriate chat response to the user.
 In parallel, the Emotion Classification Model classifies the emotions and saves the results in the database for further access in the form of a mood tracking dashboard.
 
